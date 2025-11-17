@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Interface_Segregation_Demo.Models
+﻿namespace Interface_Segregation_Demo.Models
 {
     // Interface representing the ability to eat.
     // A class implements it only if this behavior makes sense.
