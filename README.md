@@ -86,11 +86,14 @@ Each class only implements what it actually needs.
 ## 📂 Repository Structure
 
 ```
-/theory
-    isp-overview.md
-/examples
-    bad-example.cs
-    good-example.cs
+/Interface Segregation Demo
+    /Interface Segregation Demo
+        /Models
+            bad-example.cs
+            good-example.cs
+        Interface Segregation Demo.csproj
+        Program.cs
+    Interface Segregation Demo.sln
 README.md
 ```
 
